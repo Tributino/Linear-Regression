@@ -16,6 +16,11 @@ Este curso apresenta um dos modelos de maquinas de aprendizagem mais utilizados 
 ## Softwares/Compilers necessários
 Python 3+ e Scikitlearn serão utilizados durante o curso. Recomenda-se instalar o Anaconda/Jupyter/Python (gratuitamente) no web site: https://jupyter.org/install
 
+## Referência Bibliográfica
+
+1. Hands-on machine learning with Scikit-Learn and TensorFlow: concepts, tools, and techniques to build intelligent systems 
+2. CS229 Lecture Notes by Andrew Ng
+
 ## Palestrantes: Marcos Machado e Ivaldo Tributino
 
 ### Marcos Machado 
